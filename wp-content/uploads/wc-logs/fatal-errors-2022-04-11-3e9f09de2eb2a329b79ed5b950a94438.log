@@ -1,0 +1,46 @@
+2022-04-11T09:21:22+00:00 CRITICAL Uncaught Error: Class 'WC_bill24_Gateways' not found in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\woocommerce-bill24-payment-gateway.php:377
+Stack trace:
+#0 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(980): WC_bill24_Gateway->process_payment(269)
+#1 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(1195): WC_Checkout->process_order_payment(269, 'bill24')
+#2 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(461): WC_Checkout->process_checkout()
+#3 C:\wamp64\www\test-woocomerce-plugin\wp-includes\class-wp-hook.php(307): WC_AJAX::checkout('')
+#4 C:\wamp64\www\test-woocomerce-plugin\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#5 C:\wamp64\www\test-woocomerce-plugin\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#6 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\incl in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\woocommerce-bill24-payment-gateway.php on line 377
+
+2022-04-11T09:38:17+00:00 CRITICAL Uncaught Error: Class 'WC_bill24_Gateways' not found in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\woocommerce-bill24-payment-gateway.php:377
+Stack trace:
+#0 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(980): WC_bill24_Gateway->process_payment(269)
+#1 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(1195): WC_Checkout->process_order_payment(269, 'bill24')
+#2 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(461): WC_Checkout->process_checkout()
+#3 C:\wamp64\www\test-woocomerce-plugin\wp-includes\class-wp-hook.php(307): WC_AJAX::checkout('')
+#4 C:\wamp64\www\test-woocomerce-plugin\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#5 C:\wamp64\www\test-woocomerce-plugin\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#6 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\incl in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\woocommerce-bill24-payment-gateway.php on line 377
+
+2022-04-11T09:39:05+00:00 CRITICAL Uncaught Error: Class 'WC_bill24_Gateways' not found in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\woocommerce-bill24-payment-gateway.php:377
+Stack trace:
+#0 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(980): WC_bill24_Gateway->process_payment(269)
+#1 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(1195): WC_Checkout->process_order_payment(269, 'bill24')
+#2 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(461): WC_Checkout->process_checkout()
+#3 C:\wamp64\www\test-woocomerce-plugin\wp-includes\class-wp-hook.php(307): WC_AJAX::checkout('')
+#4 C:\wamp64\www\test-woocomerce-plugin\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#5 C:\wamp64\www\test-woocomerce-plugin\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#6 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\incl in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\woocommerce-bill24-payment-gateway.php on line 377
+
+2022-04-11T09:39:22+00:00 CRITICAL Uncaught Error: Class 'WC_bill24_Gateways' not found in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\woocommerce-bill24-payment-gateway.php:377
+Stack trace:
+#0 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(980): WC_bill24_Gateway->process_payment(269)
+#1 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(1195): WC_Checkout->process_order_payment(269, 'bill24')
+#2 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(461): WC_Checkout->process_checkout()
+#3 C:\wamp64\www\test-woocomerce-plugin\wp-includes\class-wp-hook.php(307): WC_AJAX::checkout('')
+#4 C:\wamp64\www\test-woocomerce-plugin\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#5 C:\wamp64\www\test-woocomerce-plugin\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#6 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\incl in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\woocommerce-bill24-payment-gateway.php on line 377
+
+2022-04-11T09:54:17+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on bool in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\checkout\checkout_confirm.php:18
+Stack trace:
+#0 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\checkout\checkout_confirm.php(184): CheckoutConfirm->updateStatus(NULL)
+#1 {main}
+  thrown in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\checkout\checkout_confirm.php on line 18
+

@@ -1,0 +1,44 @@
+2022-04-21T01:35:04+00:00 CRITICAL Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in xdebug://debug-eval on line 1
+
+2022-04-21T01:35:12+00:00 CRITICAL Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in xdebug://debug-eval on line 1
+
+2022-04-21T01:39:18+00:00 CRITICAL Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in xdebug://debug-eval on line 1
+
+2022-04-21T01:39:29+00:00 CRITICAL Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in xdebug://debug-eval on line 1
+
+2022-04-21T01:39:49+00:00 CRITICAL Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in xdebug://debug-eval on line 1
+
+2022-04-21T02:02:32+00:00 CRITICAL Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in xdebug://debug-eval on line 1
+
+2022-04-21T02:02:58+00:00 CRITICAL Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in xdebug://debug-eval on line 1
+
+2022-04-21T02:43:59+00:00 CRITICAL Uncaught Error: Call to undefined function generate_uuid() in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\woocommerce-bill24-payment-gateway.php:49
+Stack trace:
+#0 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(97): WC_bill24_Gateway->__construct()
+#1 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(70): WC_Payment_Gateways->init()
+#2 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(43): WC_Payment_Gateways->__construct()
+#3 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-woocommerce.php(888): WC_Payment_Gateways::instance()
+#4 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3820): WooCommerce->payment_gateways()
+#5 C:\wamp64\www\test-woocomerce-plugin\wp-includes\class-wp-hook.php(307): wc_get_pay_but in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\woocommerce-bill24-payment-gateway.php on line 49
+
+2022-04-21T02:44:10+00:00 CRITICAL Uncaught Error: Call to undefined function generate_uuid() in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\woocommerce-bill24-payment-gateway.php:49
+Stack trace:
+#0 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(97): WC_bill24_Gateway->__construct()
+#1 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(70): WC_Payment_Gateways->init()
+#2 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php(43): WC_Payment_Gateways->__construct()
+#3 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\class-woocommerce.php(888): WC_Payment_Gateways::instance()
+#4 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3820): WooCommerce->payment_gateways()
+#5 C:\wamp64\www\test-woocomerce-plugin\wp-includes\class-wp-hook.php(307): wc_get_pay_but in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\woocommerce-bill24-payment-gateway.php on line 49
+
+2022-04-21T10:03:22+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on bool in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\checkout\checkout_confirm.php:17
+Stack trace:
+#0 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\checkout\checkout_confirm.php(175): CheckoutConfirm->updateStatus(0)
+#1 {main}
+  thrown in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\checkout\checkout_confirm.php on line 17
+
+2022-04-21T10:05:09+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on bool in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\checkout\checkout_confirm.php:17
+Stack trace:
+#0 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\checkout\checkout_confirm.php(175): CheckoutConfirm->updateStatus(0)
+#1 {main}
+  thrown in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\checkout\checkout_confirm.php on line 17
+

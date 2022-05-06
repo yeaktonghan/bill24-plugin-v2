@@ -1,0 +1,6 @@
+2022-04-20T10:52:05+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on bool in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\checkout\checkout_confirm.php:17
+Stack trace:
+#0 C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\checkout\checkout_confirm.php(172): CheckoutConfirm->updateStatus(0)
+#1 {main}
+  thrown in C:\wamp64\www\test-woocomerce-plugin\wp-content\plugins\woocommerce-bill24-payment-gateway\checkout\checkout_confirm.php on line 17
+

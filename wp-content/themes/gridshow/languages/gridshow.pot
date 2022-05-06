@@ -1,0 +1,2093 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: GridShow\n"
+"POT-Creation-Date: 2022-01-19 05:33+0530\n"
+"PO-Revision-Date: 2022-01-19 05:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:30 theme-setup/theme-options.php:792
+msgid "Oops! That page can not be found."
+msgstr ""
+
+#: 404.php:41 theme-setup/theme-options.php:796
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:38
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:44
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: %s: Year and site name.
+#: footer.php:88
+#, php-format
+msgid "Copyright &copy; %s"
+msgstr ""
+
+#: footer.php:88
+msgid "Y"
+msgstr ""
+
+#. translators: %s: Theme author.
+#: footer.php:90
+#, php-format
+msgid "Design by %s"
+msgstr ""
+
+#: footer.php:98
+msgid "Scroll to Top"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:62 theme-setup/theme-functions.php:85
+msgid "Header Menu"
+msgstr ""
+
+#: index.php:33 theme-setup/theme-options.php:264
+msgid "Recent Posts"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "&#xf002;"
+msgstr ""
+
+#: template-parts/content-none.php:21 theme-setup/theme-options.php:784
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:34
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:50 theme-setup/theme-options.php:788
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:57
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-nongrid.php:46 template-parts/content-page.php:48
+#: template-parts/content-single.php:50
+#, php-format
+msgid ""
+"Continue reading<span class=\"gridshow-sr-only\"> \"%s\"</span> <span class="
+"\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-nongrid.php:57 template-parts/content-page.php:59
+#: template-parts/content-single.php:61
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:75
+#, php-format
+msgid "Edit <span class=\"gridshow-sr-only\">%s</span>"
+msgstr ""
+
+#: theme-setup/theme-functions.php:86 theme-setup/theme-functions.php:1018
+#: theme-setup/theme-options.php:474
+msgid "Primary Menu"
+msgstr ""
+
+#: theme-setup/theme-functions.php:87 theme-setup/theme-functions.php:1048
+#: theme-setup/theme-options.php:474
+msgid "Secondary Menu"
+msgstr ""
+
+#: theme-setup/theme-functions.php:304
+msgid "Sidebar 1 Widgets"
+msgstr ""
+
+#: theme-setup/theme-functions.php:305
+msgid "This widget area is located on the left-hand side of your web page."
+msgstr ""
+
+#: theme-setup/theme-functions.php:313
+msgid "Top Full Width Widgets (Default HomePage)"
+msgstr ""
+
+#: theme-setup/theme-functions.php:314
+msgid ""
+"This full-width widget area is located after the header of your website. "
+"Widgets of this widget area are displayed on the default homepage of your "
+"website (when you are showing your latest posts on homepage)."
+msgstr ""
+
+#: theme-setup/theme-functions.php:322
+msgid "Top Full Width Widgets (Everywhere)"
+msgstr ""
+
+#: theme-setup/theme-functions.php:323
+msgid ""
+"This full-width widget area is located after the header of your website. "
+"Widgets of this widget area are displayed on every page of your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:331
+msgid "Above Content Widgets (Default HomePage)"
+msgstr ""
+
+#: theme-setup/theme-functions.php:332
+msgid ""
+"This widget area is located at the top of the main content (above posts) of "
+"your website. Widgets of this widget area are displayed on the default "
+"homepage of your website (when you are showing your latest posts on "
+"homepage)."
+msgstr ""
+
+#: theme-setup/theme-functions.php:340
+msgid "Above Content Widgets (Everywhere)"
+msgstr ""
+
+#: theme-setup/theme-functions.php:341
+msgid ""
+"This widget area is located at the top of the main content (above posts) of "
+"your website. Widgets of this widget area are displayed on every page of "
+"your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:349
+msgid "Top Left Widgets (Default HomePage)"
+msgstr ""
+
+#: theme-setup/theme-functions.php:350
+msgid ""
+"This widget area is located at the left top of your website. Widgets of this "
+"widget area are displayed on the default homepage of your website (when you "
+"are showing your latest posts on homepage)."
+msgstr ""
+
+#: theme-setup/theme-functions.php:358
+msgid "Top Left Widgets (Everywhere)"
+msgstr ""
+
+#: theme-setup/theme-functions.php:359
+msgid ""
+"This widget area is located at the left top of your website. Widgets of this "
+"widget area are displayed on every page of your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:367
+msgid "Top Right Widgets (Default HomePage)"
+msgstr ""
+
+#: theme-setup/theme-functions.php:368
+msgid ""
+"This widget area is located at the right top of your website. Widgets of "
+"this widget area are displayed on the default homepage of your website (when "
+"you are showing your latest posts on homepage)."
+msgstr ""
+
+#: theme-setup/theme-functions.php:376
+msgid "Top Right Widgets (Everywhere)"
+msgstr ""
+
+#: theme-setup/theme-functions.php:377
+msgid ""
+"This widget area is located at the right top of your website. Widgets of "
+"this widget area are displayed on every page of your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:385
+msgid "Below Content Widgets (Default HomePage)"
+msgstr ""
+
+#: theme-setup/theme-functions.php:386
+msgid ""
+"This widget area is located at the bottom of the main content (below posts) "
+"of your website. Widgets of this widget area are displayed on the default "
+"homepage of your website (when you are showing your latest posts on "
+"homepage)."
+msgstr ""
+
+#: theme-setup/theme-functions.php:394
+msgid "Below Content Widgets (Everywhere)"
+msgstr ""
+
+#: theme-setup/theme-functions.php:395
+msgid ""
+"This widget area is located at the bottom of the main content (below posts) "
+"of your website. Widgets of this widget area are displayed on every page of "
+"your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:403
+msgid "Bottom Full Width Widgets (Default HomePage)"
+msgstr ""
+
+#: theme-setup/theme-functions.php:404
+msgid ""
+"This full-width widget area is located before the footer of your website. "
+"Widgets of this widget area are displayed on the default homepage of your "
+"website (when you are showing your latest posts on homepage)."
+msgstr ""
+
+#: theme-setup/theme-functions.php:412
+msgid "Bottom Full Width Widgets (Everywhere)"
+msgstr ""
+
+#: theme-setup/theme-functions.php:413
+msgid ""
+"This full-width widget area is located before the footer of your website. "
+"Widgets of this widget area are displayed on every page of your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:421
+msgid "Single Post Bottom Widgets"
+msgstr ""
+
+#: theme-setup/theme-functions.php:422
+msgid ""
+"This widget area is located at the bottom of single post of any post type "
+"(except attachments and pages)."
+msgstr ""
+
+#: theme-setup/theme-functions.php:430
+msgid "Footer Top Widgets"
+msgstr ""
+
+#: theme-setup/theme-functions.php:431
+msgid "This widget area is located on the top of the footer of your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:439
+msgid "Footer 1 Widgets"
+msgstr ""
+
+#: theme-setup/theme-functions.php:440
+msgid "This widget area is the column 1 of the footer of your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:448
+msgid "Footer 2 Widgets"
+msgstr ""
+
+#: theme-setup/theme-functions.php:449
+msgid "This widget area is the column 2 of the footer of your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:457
+msgid "Footer 3 Widgets"
+msgstr ""
+
+#: theme-setup/theme-functions.php:458
+msgid "This widget area is the column 3 of the footer of your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:466
+msgid "Footer 4 Widgets"
+msgstr ""
+
+#: theme-setup/theme-functions.php:467
+msgid "This widget area is the column 4 of the footer of your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:475
+msgid "Footer Bottom Widgets"
+msgstr ""
+
+#: theme-setup/theme-functions.php:476
+msgid ""
+"This widget area is located on the bottom of the footer of your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:484
+msgid "404 Page Widgets"
+msgstr ""
+
+#: theme-setup/theme-functions.php:485
+msgid "This widget area is located on the 404(not found) page of your website."
+msgstr ""
+
+#: theme-setup/theme-functions.php:611
+msgid "Twitter Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:611
+msgid "Twitter"
+msgstr ""
+
+#: theme-setup/theme-functions.php:613
+msgid "Facebook Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:613
+msgid "Facebook"
+msgstr ""
+
+#: theme-setup/theme-functions.php:615
+msgid "Google Plus Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:615
+msgid "Google Plus"
+msgstr ""
+
+#: theme-setup/theme-functions.php:617
+msgid "Pinterest Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:617
+msgid "Pinterest"
+msgstr ""
+
+#: theme-setup/theme-functions.php:619
+msgid "Linkedin Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:619
+msgid "Linkedin"
+msgstr ""
+
+#: theme-setup/theme-functions.php:621
+msgid "Instagram Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:621
+msgid "Instagram"
+msgstr ""
+
+#: theme-setup/theme-functions.php:623
+msgid "Flickr Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:623
+msgid "Flickr"
+msgstr ""
+
+#: theme-setup/theme-functions.php:625
+msgid "Youtube Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:625
+msgid "Youtube"
+msgstr ""
+
+#: theme-setup/theme-functions.php:627
+msgid "Vimeo Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:627
+msgid "Vimeo"
+msgstr ""
+
+#: theme-setup/theme-functions.php:629
+msgid "SoundCloud Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:629
+msgid "SoundCloud"
+msgstr ""
+
+#: theme-setup/theme-functions.php:631
+msgid "Messenger Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:631
+msgid "Messenger"
+msgstr ""
+
+#: theme-setup/theme-functions.php:633
+msgid "WhatsApp Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:633
+msgid "WhatsApp"
+msgstr ""
+
+#: theme-setup/theme-functions.php:635
+msgid "Lastfm Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:635
+msgid "Lastfm"
+msgstr ""
+
+#: theme-setup/theme-functions.php:637
+msgid "Medium Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:637
+msgid "Medium"
+msgstr ""
+
+#: theme-setup/theme-functions.php:639
+msgid "Github Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:639
+msgid "Github"
+msgstr ""
+
+#: theme-setup/theme-functions.php:641
+msgid "Bitbucket Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:641
+msgid "Bitbucket"
+msgstr ""
+
+#: theme-setup/theme-functions.php:643
+msgid "Tumblr Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:643
+msgid "Tumblr"
+msgstr ""
+
+#: theme-setup/theme-functions.php:645
+msgid "Digg Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:645
+msgid "Digg"
+msgstr ""
+
+#: theme-setup/theme-functions.php:647
+msgid "Delicious Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:647
+msgid "Delicious"
+msgstr ""
+
+#: theme-setup/theme-functions.php:649
+msgid "Stumbleupon Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:649
+msgid "Stumbleupon"
+msgstr ""
+
+#: theme-setup/theme-functions.php:651
+msgid "Mix Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:651
+msgid "Mix"
+msgstr ""
+
+#: theme-setup/theme-functions.php:653
+msgid "Reddit Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:653
+msgid "Reddit"
+msgstr ""
+
+#: theme-setup/theme-functions.php:655
+msgid "Dribbble Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:655
+msgid "Dribbble"
+msgstr ""
+
+#: theme-setup/theme-functions.php:657
+msgid "Flipboard Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:657
+msgid "Flipboard"
+msgstr ""
+
+#: theme-setup/theme-functions.php:659
+msgid "Blogger Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:659
+msgid "Blogger"
+msgstr ""
+
+#: theme-setup/theme-functions.php:661
+msgid "Etsy Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:661
+msgid "Etsy"
+msgstr ""
+
+#: theme-setup/theme-functions.php:663
+msgid "Behance Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:663
+msgid "Behance"
+msgstr ""
+
+#: theme-setup/theme-functions.php:665
+msgid "Amazon Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:665
+msgid "Amazon"
+msgstr ""
+
+#: theme-setup/theme-functions.php:667
+msgid "Meetup Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:667
+msgid "Meetup"
+msgstr ""
+
+#: theme-setup/theme-functions.php:669
+msgid "Mixcloud Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:669
+msgid "Mixcloud"
+msgstr ""
+
+#: theme-setup/theme-functions.php:671
+msgid "Slack Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:671
+msgid "Slack"
+msgstr ""
+
+#: theme-setup/theme-functions.php:673
+msgid "Snapchat Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:673
+msgid "Snapchat"
+msgstr ""
+
+#: theme-setup/theme-functions.php:675
+msgid "Spotify Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:675
+msgid "Spotify"
+msgstr ""
+
+#: theme-setup/theme-functions.php:677
+msgid "Yelp Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:677
+msgid "Yelp"
+msgstr ""
+
+#: theme-setup/theme-functions.php:679
+msgid "WordPress Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:679
+msgid "WordPress"
+msgstr ""
+
+#: theme-setup/theme-functions.php:681
+msgid "Twitch Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:681
+msgid "Twitch"
+msgstr ""
+
+#: theme-setup/theme-functions.php:683
+msgid "Telegram Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:683
+msgid "Telegram"
+msgstr ""
+
+#: theme-setup/theme-functions.php:685
+msgid "Bandcamp Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:685
+msgid "Bandcamp"
+msgstr ""
+
+#: theme-setup/theme-functions.php:687
+msgid "Quora Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:687
+msgid "Quora"
+msgstr ""
+
+#: theme-setup/theme-functions.php:689
+msgid "Foursquare Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:689
+msgid "Foursquare"
+msgstr ""
+
+#: theme-setup/theme-functions.php:691
+msgid "DeviantArt Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:691
+msgid "DeviantArt"
+msgstr ""
+
+#: theme-setup/theme-functions.php:693
+msgid "IMDB Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:693
+msgid "IMDB"
+msgstr ""
+
+#: theme-setup/theme-functions.php:695
+msgid "VK Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:695
+msgid "VK"
+msgstr ""
+
+#: theme-setup/theme-functions.php:697
+msgid "Codepen Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:697
+msgid "Codepen"
+msgstr ""
+
+#: theme-setup/theme-functions.php:699
+msgid "JSFiddle Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:699
+msgid "JSFiddle"
+msgstr ""
+
+#: theme-setup/theme-functions.php:701
+msgid "Stack Overflow Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:701
+msgid "Stack Overflow"
+msgstr ""
+
+#: theme-setup/theme-functions.php:703
+msgid "Stack Exchange Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:703
+msgid "Stack Exchange"
+msgstr ""
+
+#: theme-setup/theme-functions.php:705
+msgid "BuySellAds Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:705
+msgid "BuySellAds"
+msgstr ""
+
+#: theme-setup/theme-functions.php:707
+msgid "500px Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:707
+msgid "500px"
+msgstr ""
+
+#: theme-setup/theme-functions.php:709
+msgid "Ello Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:709
+msgid "Ello"
+msgstr ""
+
+#: theme-setup/theme-functions.php:711
+msgid "Discord Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:711
+msgid "Discord"
+msgstr ""
+
+#: theme-setup/theme-functions.php:713
+msgid "Goodreads Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:713
+msgid "Goodreads"
+msgstr ""
+
+#: theme-setup/theme-functions.php:715
+msgid "Odnoklassniki Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:715
+msgid "Odnoklassniki"
+msgstr ""
+
+#: theme-setup/theme-functions.php:717
+msgid "Houzz Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:717
+msgid "Houzz"
+msgstr ""
+
+#: theme-setup/theme-functions.php:719
+msgid "Pocket Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:719
+msgid "Pocket"
+msgstr ""
+
+#: theme-setup/theme-functions.php:721
+msgid "XING Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:721
+msgid "XING"
+msgstr ""
+
+#: theme-setup/theme-functions.php:723
+msgid "Google Play Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:723
+msgid "Google Play"
+msgstr ""
+
+#: theme-setup/theme-functions.php:725
+msgid "SlideShare Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:725
+msgid "SlideShare"
+msgstr ""
+
+#: theme-setup/theme-functions.php:727
+msgid "Dropbox Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:727
+msgid "Dropbox"
+msgstr ""
+
+#: theme-setup/theme-functions.php:729
+msgid "PayPal Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:729
+msgid "PayPal"
+msgstr ""
+
+#: theme-setup/theme-functions.php:731
+msgid "Viadeo Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:731
+msgid "Viadeo"
+msgstr ""
+
+#: theme-setup/theme-functions.php:733
+msgid "Wikipedia Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:733
+msgid "Wikipedia"
+msgstr ""
+
+#: theme-setup/theme-functions.php:735
+msgid "Skype Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:735
+msgid "Skype"
+msgstr ""
+
+#: theme-setup/theme-functions.php:737
+msgid "Email Us Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:737
+msgid "Email Us"
+msgstr ""
+
+#: theme-setup/theme-functions.php:739
+msgid "RSS Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:739
+msgid "RSS"
+msgstr ""
+
+#: theme-setup/theme-functions.php:740
+msgid "Random Post Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:740
+msgid "Random Post"
+msgstr ""
+
+#: theme-setup/theme-functions.php:741
+msgid "Logout Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:741
+msgid "Logout"
+msgstr ""
+
+#: theme-setup/theme-functions.php:741
+msgid "Login / Register Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:741
+msgid "Login / Register"
+msgstr ""
+
+#: theme-setup/theme-functions.php:742
+msgid "Search Button"
+msgstr ""
+
+#: theme-setup/theme-functions.php:742
+msgid "Search"
+msgstr ""
+
+#: theme-setup/theme-functions.php:762
+msgid "Author: "
+msgstr ""
+
+#: theme-setup/theme-functions.php:780
+msgid "Posted in"
+msgstr ""
+
+#: theme-setup/theme-functions.php:789
+msgid "Tagged"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: theme-setup/theme-functions.php:801
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: theme-setup/theme-functions.php:804
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space
+#: theme-setup/theme-functions.php:814
+msgid "&nbsp;"
+msgstr ""
+
+#. translators: 1: list of categories.
+#: theme-setup/theme-functions.php:817 theme-setup/theme-functions.php:846
+#, php-format
+msgid "<span class=\"gridshow-sr-only\">Posted in </span>%1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: theme-setup/theme-functions.php:831 theme-setup/theme-functions.php:860
+#: theme-setup/theme-functions.php:877
+#, php-format
+msgid "Leave a Comment<span class=\"gridshow-sr-only\"> on %s</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space
+#: theme-setup/theme-functions.php:843
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: theme-setup/theme-functions.php:863
+#, php-format
+msgid "Edit<span class=\"gridshow-sr-only\"> %s</span>"
+msgstr ""
+
+#: theme-setup/theme-functions.php:905
+msgid "Older posts"
+msgstr ""
+
+#: theme-setup/theme-functions.php:905
+msgid "Newer posts"
+msgstr ""
+
+#: theme-setup/theme-functions.php:907
+msgid "&larr; Newer posts"
+msgstr ""
+
+#: theme-setup/theme-functions.php:907
+msgid "Older posts &rarr;"
+msgstr ""
+
+#: theme-setup/theme-functions.php:918
+msgid "%title &rarr;"
+msgstr ""
+
+#: theme-setup/theme-functions.php:918
+msgid "&larr; %title"
+msgstr ""
+
+#: theme-setup/theme-functions.php:935 theme-setup/theme-functions.php:943
+#: theme-setup/theme-functions.php:951 theme-setup/theme-functions.php:1020
+#: theme-setup/theme-options.php:150 theme-setup/theme-options.php:159
+#: theme-setup/theme-options.php:172
+msgid "Menu"
+msgstr ""
+
+#: theme-setup/theme-functions.php:1031 theme-setup/theme-functions.php:1062
+msgid "Close Search"
+msgstr ""
+
+#. translators: %s: post title.
+#: theme-setup/theme-functions.php:1516 theme-setup/theme-functions.php:1525
+#: theme-setup/theme-functions.php:1550 theme-setup/theme-functions.php:1552
+#: theme-setup/theme-functions.php:1578 theme-setup/theme-functions.php:1580
+#: theme-setup/theme-functions.php:1606 theme-setup/theme-functions.php:1608
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: theme-setup/theme-functions.php:1687
+msgid ""
+"abbr article aside audio bdi canvas data datalist details dialog figcaption "
+"figure footer header hgroup main mark meter nav output picture progress "
+"section summary template time video"
+msgstr ""
+
+#: theme-setup/theme-functions.php:1731
+msgid "GridShow Button"
+msgstr ""
+
+#: theme-setup/theme-options.php:129
+msgid "Getting Started"
+msgstr ""
+
+#: theme-setup/theme-options.php:129
+msgid ""
+"Thanks for your interest in GridShow! If you have any questions or run into "
+"any trouble, please visit us the following links. We will get you fixed up!"
+msgstr ""
+
+#: theme-setup/theme-options.php:133
+msgid "Documentation"
+msgstr ""
+
+#: theme-setup/theme-options.php:137
+msgid "Contact Us"
+msgstr ""
+
+#: theme-setup/theme-options.php:147
+msgid "Menu Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:152
+msgid "Header Menu Mobile Text"
+msgstr ""
+
+#: theme-setup/theme-options.php:156
+msgid "Disable Header Menu"
+msgstr ""
+
+#: theme-setup/theme-options.php:161
+msgid "Primary Menu Mobile Text"
+msgstr ""
+
+#: theme-setup/theme-options.php:165
+msgid "Disable Primary Menu"
+msgstr ""
+
+#: theme-setup/theme-options.php:169
+msgid "Center Primary Menu"
+msgstr ""
+
+#: theme-setup/theme-options.php:174
+msgid "Secondary Menu Mobile Text"
+msgstr ""
+
+#: theme-setup/theme-options.php:178
+msgid "Disable Secondary Menu"
+msgstr ""
+
+#: theme-setup/theme-options.php:182
+msgid "Center Secondary Menu"
+msgstr ""
+
+#: theme-setup/theme-options.php:186
+msgid "Select Secondary Menu Location"
+msgstr ""
+
+#: theme-setup/theme-options.php:186
+msgid "Select where you want to display secondary menu."
+msgstr ""
+
+#: theme-setup/theme-options.php:186 theme-setup/theme-options.php:971
+msgid "Before Header"
+msgstr ""
+
+#: theme-setup/theme-options.php:186 theme-setup/theme-options.php:972
+msgid "After Header"
+msgstr ""
+
+#: theme-setup/theme-options.php:186 theme-setup/theme-options.php:973
+msgid "Before Footer"
+msgstr ""
+
+#: theme-setup/theme-options.php:186 theme-setup/theme-options.php:974
+msgid "After Footer"
+msgstr ""
+
+#: theme-setup/theme-options.php:196
+msgid "Header Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:200
+msgid "Hide Tagline"
+msgstr ""
+
+#: theme-setup/theme-options.php:204
+msgid "Hide Header Content"
+msgstr ""
+
+#: theme-setup/theme-options.php:208
+msgid "Logo Location"
+msgstr ""
+
+#: theme-setup/theme-options.php:208
+msgid ""
+"Select how you want to display the site logo with site title and tagline."
+msgstr ""
+
+#: theme-setup/theme-options.php:208
+msgid "Before Site Title and Tagline"
+msgstr ""
+
+#: theme-setup/theme-options.php:208
+msgid "Above Site Title and Tagline"
+msgstr ""
+
+#: theme-setup/theme-options.php:212
+msgid "Hide Header Image from Everywhere"
+msgstr ""
+
+#: theme-setup/theme-options.php:216
+msgid "Remove Link from Header Image"
+msgstr ""
+
+#: theme-setup/theme-options.php:220
+msgid "Hide both Title and Description from Header Image"
+msgstr ""
+
+#: theme-setup/theme-options.php:220
+msgid ""
+"If you checked this option, header image title and description will be "
+"hidden from all screen sizes."
+msgstr ""
+
+#: theme-setup/theme-options.php:224
+msgid "Hide Title from Header Image"
+msgstr ""
+
+#: theme-setup/theme-options.php:224
+msgid ""
+"If you checked this option, header image title will be hidden from all "
+"screen sizes. This option has no effect if you have checked the option: "
+"\"Hide both Title and Description from Header Image\""
+msgstr ""
+
+#: theme-setup/theme-options.php:228
+msgid "Hide Description from Header Image"
+msgstr ""
+
+#: theme-setup/theme-options.php:228
+msgid ""
+"If you checked this option, header image description will be hidden from all "
+"screen sizes. This option has no effect if you have checked the option: "
+"\"Hide both Title and Description from Header Image\""
+msgstr ""
+
+#: theme-setup/theme-options.php:232
+msgid "Add Custom Title/Custom Description to Header Image"
+msgstr ""
+
+#: theme-setup/theme-options.php:236
+msgid "Header Image Custom Title"
+msgstr ""
+
+#: theme-setup/theme-options.php:240
+msgid "Header Image Custom Description"
+msgstr ""
+
+#: theme-setup/theme-options.php:244
+msgid "Header Image Destination URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:244
+msgid ""
+"Enter the URL a visitor should go when he/she click on the header image. If "
+"you did not enter a URL below, header image will be linked to the homepage "
+"of your website."
+msgstr ""
+
+#: theme-setup/theme-options.php:248
+msgid "Add a Minimum Height to Header Image on Smaller Screens"
+msgstr ""
+
+#: theme-setup/theme-options.php:258
+msgid "Posts Summaries Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:262
+msgid "Hide HomePage Posts Heading"
+msgstr ""
+
+#: theme-setup/theme-options.php:266
+msgid "HomePage Posts Heading"
+msgstr ""
+
+#: theme-setup/theme-options.php:270
+msgid "Post Summaries Style"
+msgstr ""
+
+#: theme-setup/theme-options.php:270
+msgid "Select the post summaries style for non-singular pages."
+msgstr ""
+
+#: theme-setup/theme-options.php:270
+msgid "Grid Posts"
+msgstr ""
+
+#: theme-setup/theme-options.php:270
+msgid "Non-Grid Posts"
+msgstr ""
+
+#: theme-setup/theme-options.php:274
+msgid "Hide Featured Images from Grid | Non-Grid Posts Summaries"
+msgstr ""
+
+#: theme-setup/theme-options.php:278
+msgid "Hide Default Featured Image from Grid Posts"
+msgstr ""
+
+#: theme-setup/theme-options.php:278
+msgid ""
+"The default thumbnail image is shown when there is no featured image is set."
+msgstr ""
+
+#: theme-setup/theme-options.php:282
+msgid "Move Featured Images to Bottom of Grid | Non-Grid Post Titles"
+msgstr ""
+
+#: theme-setup/theme-options.php:286
+msgid "Featured Images Size of Grid Posts"
+msgstr ""
+
+#: theme-setup/theme-options.php:286
+msgid "Select the thumbnail size you need for the post grid."
+msgstr ""
+
+#: theme-setup/theme-options.php:286
+msgid "360:270 Thumbnails"
+msgstr ""
+
+#: theme-setup/theme-options.php:286
+msgid "360:Auto Thumbnails"
+msgstr ""
+
+#: theme-setup/theme-options.php:290
+msgid "Thumbnails Links"
+msgstr ""
+
+#: theme-setup/theme-options.php:290
+msgid "Do you want thumbnails in posts summaries to be linked to their posts?"
+msgstr ""
+
+#: theme-setup/theme-options.php:290 theme-setup/theme-options.php:302
+#: theme-setup/theme-options.php:336 theme-setup/theme-options.php:424
+msgid "Yes"
+msgstr ""
+
+#: theme-setup/theme-options.php:290 theme-setup/theme-options.php:302
+#: theme-setup/theme-options.php:336 theme-setup/theme-options.php:424
+msgid "No"
+msgstr ""
+
+#: theme-setup/theme-options.php:294
+msgid "Hide Post Headers from Non-Grid Posts"
+msgstr ""
+
+#: theme-setup/theme-options.php:294
+msgid ""
+"If you check this option, it will hide both post titles and post header meta "
+"data from non-grid posts."
+msgstr ""
+
+#: theme-setup/theme-options.php:298
+msgid "Hide Post Titles from Grid | Non-Grid Posts Summaries"
+msgstr ""
+
+#: theme-setup/theme-options.php:302
+msgid "Posts Titles Links"
+msgstr ""
+
+#: theme-setup/theme-options.php:302
+msgid "Do you want post titles in posts summaries to be linked to their posts?"
+msgstr ""
+
+#: theme-setup/theme-options.php:306
+msgid "Hide Post Author Names from Non-Grid Posts Summaries"
+msgstr ""
+
+#: theme-setup/theme-options.php:310
+msgid "Hide Posted Dates from Non-Grid Posts Summaries"
+msgstr ""
+
+#: theme-setup/theme-options.php:314
+msgid "Hide Comment Links from Non-Grid Posts Summaries"
+msgstr ""
+
+#: theme-setup/theme-options.php:318
+msgid "Hide Post Categories from Non-Grid Posts Summaries"
+msgstr ""
+
+#: theme-setup/theme-options.php:322
+msgid "Hide Post Tags from Non-Grid Posts Summaries"
+msgstr ""
+
+#: theme-setup/theme-options.php:332
+msgid "Post Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:336 theme-setup/theme-options.php:424
+msgid "Featured Image Link"
+msgstr ""
+
+#: theme-setup/theme-options.php:336
+msgid ""
+"Do you want the featured image in a single post to be linked to its post?"
+msgstr ""
+
+#: theme-setup/theme-options.php:340
+msgid "Hide Featured Image from Full Post"
+msgstr ""
+
+#: theme-setup/theme-options.php:344
+msgid "Move Featured Image to Bottom of Full Post Title"
+msgstr ""
+
+#: theme-setup/theme-options.php:348
+msgid "Do not Stretch Small Featured Image in Full Post"
+msgstr ""
+
+#: theme-setup/theme-options.php:352
+msgid "Hide Post Header from Full Post"
+msgstr ""
+
+#: theme-setup/theme-options.php:352
+msgid ""
+"If you check this option, it will hide post title and post header meta data "
+"from full post."
+msgstr ""
+
+#: theme-setup/theme-options.php:356
+msgid "Hide Post Title from Full Post"
+msgstr ""
+
+#: theme-setup/theme-options.php:360
+msgid "Remove Link from Full Post Title"
+msgstr ""
+
+#: theme-setup/theme-options.php:364
+msgid "Hide Post Categories from Full Post"
+msgstr ""
+
+#: theme-setup/theme-options.php:368
+msgid "Hide Post Author from Full Post"
+msgstr ""
+
+#: theme-setup/theme-options.php:372
+msgid "Hide Posted Date from Full Post"
+msgstr ""
+
+#: theme-setup/theme-options.php:376
+msgid "Hide Comment Link from Full Post"
+msgstr ""
+
+#: theme-setup/theme-options.php:380
+msgid "Hide Post Edit Link"
+msgstr ""
+
+#: theme-setup/theme-options.php:384
+msgid "Hide Post Tags from Full Post"
+msgstr ""
+
+#: theme-setup/theme-options.php:388
+msgid "Hide Author Bio Box from Full Post"
+msgstr ""
+
+#: theme-setup/theme-options.php:398
+msgid "Post/Posts Navigation Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:402
+msgid "Hide Post Navigation from Full Posts"
+msgstr ""
+
+#: theme-setup/theme-options.php:406
+msgid "Hide Posts Navigation from Home/Archive/Search Pages"
+msgstr ""
+
+#: theme-setup/theme-options.php:410
+msgid "Posts Navigation Type"
+msgstr ""
+
+#: theme-setup/theme-options.php:410
+msgid ""
+"Select posts navigation type you need. If you activate WP-PageNavi plugin, "
+"this navigation will be replaced by WP-PageNavi navigation."
+msgstr ""
+
+#: theme-setup/theme-options.php:410
+msgid "Normal Navigation"
+msgstr ""
+
+#: theme-setup/theme-options.php:410
+msgid "Numbered Navigation"
+msgstr ""
+
+#: theme-setup/theme-options.php:420
+msgid "Page Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:424
+msgid "Do you want the featured image in a page to be linked to its page?"
+msgstr ""
+
+#: theme-setup/theme-options.php:428
+msgid "Hide Featured Image from Single Page"
+msgstr ""
+
+#: theme-setup/theme-options.php:432
+msgid "Move Featured Image to Bottom of Page Title"
+msgstr ""
+
+#: theme-setup/theme-options.php:436
+msgid "Hide Page Header from Single Page"
+msgstr ""
+
+#: theme-setup/theme-options.php:436
+msgid ""
+"If you check this option, it will hide page title and page header meta data "
+"from single page."
+msgstr ""
+
+#: theme-setup/theme-options.php:440
+msgid "Hide Page Title from Single Page"
+msgstr ""
+
+#: theme-setup/theme-options.php:444
+msgid "Remove Link from Single Page Title"
+msgstr ""
+
+#: theme-setup/theme-options.php:448
+msgid "Hide Posted Date from Single Page"
+msgstr ""
+
+#: theme-setup/theme-options.php:452
+msgid "Hide Page Author from Single Page"
+msgstr ""
+
+#: theme-setup/theme-options.php:456
+msgid "Hide Comment Link from Single Page"
+msgstr ""
+
+#: theme-setup/theme-options.php:460
+msgid "Hide Edit Link from Single Page"
+msgstr ""
+
+#: theme-setup/theme-options.php:470
+msgid "Social Links Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:474
+msgid "Social + Search + Random + Login/Logout Buttons Location"
+msgstr ""
+
+#: theme-setup/theme-options.php:474
+msgid "Select where you want to display social buttons."
+msgstr ""
+
+#: theme-setup/theme-options.php:478
+msgid "Hide Social + Search + Random + Login/Logout Buttons"
+msgstr ""
+
+#: theme-setup/theme-options.php:478
+msgid ""
+"If you checked this option, all buttons will disappear. There is no any "
+"effect from these options: \"Hide Search Button\", \"Show Login/Logout Button"
+"\", \"Show Random Post Button\"."
+msgstr ""
+
+#: theme-setup/theme-options.php:482
+msgid "Hide Search Button"
+msgstr ""
+
+#: theme-setup/theme-options.php:482 theme-setup/theme-options.php:486
+#: theme-setup/theme-options.php:490
+msgid ""
+"This option has no effect if you have checked the option: \"Hide Social + "
+"Search + Random + Login/Logout Buttons\"."
+msgstr ""
+
+#: theme-setup/theme-options.php:486
+msgid "Show Login/Logout Button"
+msgstr ""
+
+#: theme-setup/theme-options.php:490
+msgid "Show Random Post Button"
+msgstr ""
+
+#: theme-setup/theme-options.php:494
+msgid "Twitter URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:498
+msgid "Facebook URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:502
+msgid "Google Plus URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:506
+msgid "Pinterest URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:510
+msgid "Linkedin Link"
+msgstr ""
+
+#: theme-setup/theme-options.php:514
+msgid "Instagram Link"
+msgstr ""
+
+#: theme-setup/theme-options.php:518
+msgid "VK Link"
+msgstr ""
+
+#: theme-setup/theme-options.php:522
+msgid "Flickr Link"
+msgstr ""
+
+#: theme-setup/theme-options.php:526
+msgid "Youtube URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:530
+msgid "Vimeo URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:534
+msgid "Soundcloud URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:538
+msgid "Messenger URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:542
+msgid "WhatsApp URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:546
+msgid "Lastfm URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:550
+msgid "Medium URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:554
+msgid "Github URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:558
+msgid "Bitbucket URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:562
+msgid "Tumblr URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:566
+msgid "Digg URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:570
+msgid "Delicious URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:574
+msgid "Stumbleupon URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:578
+msgid "Mix URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:582
+msgid "Reddit URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:586
+msgid "Dribbble URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:590
+msgid "Flipboard URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:594
+msgid "Blogger URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:598
+msgid "Etsy URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:602
+msgid "Behance URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:606
+msgid "Amazon URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:610
+msgid "Meetup URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:614
+msgid "Mixcloud URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:618
+msgid "Slack URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:622
+msgid "Snapchat URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:626
+msgid "Spotify URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:630
+msgid "Yelp URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:634
+msgid "WordPress URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:638
+msgid "Twitch URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:642
+msgid "Telegram URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:646
+msgid "Bandcamp URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:650
+msgid "Quora URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:654
+msgid "Foursquare URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:658
+msgid "DeviantArt URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:662
+msgid "IMDB URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:666
+msgid "Codepen URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:670
+msgid "JSFiddle URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:674
+msgid "Stack Overflow URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:678
+msgid "Stack Exchange URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:682
+msgid "BuySellAds URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:686
+msgid "500px URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:690
+msgid "Ello URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:694
+msgid "Discord URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:698
+msgid "Goodreads URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:702
+msgid "Odnoklassniki URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:706
+msgid "Houzz URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:710
+msgid "Pocket URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:714
+msgid "XING URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:718
+msgid "Google Play URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:722
+msgid "SlideShare URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:726
+msgid "Dropbox URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:730
+msgid "PayPal URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:734
+msgid "Viadeo URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:738
+msgid "Wikipedia URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:742
+msgid "Skype Username"
+msgstr ""
+
+#: theme-setup/theme-options.php:746
+msgid "Email Address"
+msgstr ""
+
+#: theme-setup/theme-options.php:750
+msgid "RSS Feed URL"
+msgstr ""
+
+#: theme-setup/theme-options.php:760
+msgid "Footer Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:764
+msgid "Footer copyright notice"
+msgstr ""
+
+#: theme-setup/theme-options.php:768
+msgid "Hide Footer Widgets"
+msgstr ""
+
+#: theme-setup/theme-options.php:772
+msgid "Disable Back to Top Button"
+msgstr ""
+
+#: theme-setup/theme-options.php:782
+msgid "Search and 404 Pages Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:786
+msgid "No Search Results Heading"
+msgstr ""
+
+#: theme-setup/theme-options.php:786
+msgid "Enter a heading to display when no search results are found."
+msgstr ""
+
+#: theme-setup/theme-options.php:790
+msgid "No Search Results Message"
+msgstr ""
+
+#: theme-setup/theme-options.php:790
+msgid "Enter a message to display when no search results are found."
+msgstr ""
+
+#: theme-setup/theme-options.php:794
+msgid "404 Error Page Heading"
+msgstr ""
+
+#: theme-setup/theme-options.php:794
+msgid "Enter the heading for the 404 error page."
+msgstr ""
+
+#: theme-setup/theme-options.php:798
+msgid "Error 404 Message"
+msgstr ""
+
+#: theme-setup/theme-options.php:798
+msgid "Enter a message to display on the 404 error page."
+msgstr ""
+
+#: theme-setup/theme-options.php:802
+msgid "Hide Search Box from 404 Page"
+msgstr ""
+
+#: theme-setup/theme-options.php:812
+msgid "Other Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:816
+msgid "Enable Gutenberg Widget Block Editor"
+msgstr ""
+
+#: theme-setup/theme-options.php:820
+msgid "Disable Site Loading Animation"
+msgstr ""
+
+#: theme-setup/theme-options.php:824
+msgid "Disable FitVids.JS"
+msgstr ""
+
+#: theme-setup/theme-options.php:824
+msgid ""
+"You can disable fitvids.js script if you are not using videos on your "
+"website or if you do not want fluid width videos in your post content."
+msgstr ""
+
+#: theme-setup/theme-options.php:834
+msgid "Upgrade to Pro Version"
+msgstr ""
+
+#: theme-setup/theme-options.php:839
+msgid "GridShow Pro"
+msgstr ""
+
+#: theme-setup/theme-options.php:842
+msgid "Do you enjoy GridShow? Upgrade to GridShow Pro now and get:"
+msgstr ""
+
+#: theme-setup/theme-options.php:844
+msgid "Color Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:845
+msgid "Font Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:846
+msgid "1/2/3/4/5/6/7/8/9/10 Columns Options for Posts Grids"
+msgstr ""
+
+#: theme-setup/theme-options.php:847
+msgid "10+ Thumbnail Sizes Options for Posts Grids"
+msgstr ""
+
+#: theme-setup/theme-options.php:848
+msgid "Custom Thumbnail Size Options for Posts Grids"
+msgstr ""
+
+#: theme-setup/theme-options.php:849
+msgid "Switch between Masonry Grid (JavaScript based) and CSS only Grid"
+msgstr ""
+
+#: theme-setup/theme-options.php:850
+msgid "Display Ads/Custom Contents between Posts in the Grid"
+msgstr ""
+
+#: theme-setup/theme-options.php:851
+msgid "Switch between Boxed or Full Layout Type"
+msgstr ""
+
+#: theme-setup/theme-options.php:852
+msgid "10+ Layout Styles for Posts/Pages"
+msgstr ""
+
+#: theme-setup/theme-options.php:853
+msgid "10+ Layout Styles for Non-Singular Pages"
+msgstr ""
+
+#: theme-setup/theme-options.php:854
+msgid ""
+"Width Change Options for Full Website/Main Content/Left Sidebar/Right Sidebar"
+msgstr ""
+
+#: theme-setup/theme-options.php:855
+msgid "10+ Custom Page Templates"
+msgstr ""
+
+#: theme-setup/theme-options.php:856
+msgid "10+ Custom Post Templates"
+msgstr ""
+
+#: theme-setup/theme-options.php:857
+msgid ""
+"3 Header Layouts with Width options - (Logo + Header Menu) / (Logo + Header "
+"Banner) / (Full Width Header)"
+msgstr ""
+
+#: theme-setup/theme-options.php:858
+msgid "Footer with Layout Options (1/2/3/4/5/6 columns)"
+msgstr ""
+
+#: theme-setup/theme-options.php:859
+msgid ""
+"Ability to Change Website Width/Layout Type/Layout Style/Header Style/Footer "
+"Style of any Post/Page"
+msgstr ""
+
+#: theme-setup/theme-options.php:860
+msgid ""
+"Capability to Add Different Header Images for Each Post/Page with Unique "
+"Link, Title and Description"
+msgstr ""
+
+#: theme-setup/theme-options.php:861
+msgid ""
+"Grid Featured Posts Widget (Recent/Categories/Tags/PostIDs based) - with "
+"capability to display posts according to Likes/Views/Comments/Dates/... and "
+"there are many options"
+msgstr ""
+
+#: theme-setup/theme-options.php:862
+msgid ""
+"List Featured Posts Widget (Recent/Categories/Tags/PostIDs based) - with "
+"capability to display posts according to Likes/Views/Comments/Dates/... and "
+"there are many options"
+msgstr ""
+
+#: theme-setup/theme-options.php:863
+msgid ""
+"Tabbed Widget (Recent/Categories/Tags/PostIDs based) - with capability to "
+"display posts according to Likes/Views/Comments/Dates/... and there are many "
+"options."
+msgstr ""
+
+#: theme-setup/theme-options.php:864
+msgid "About and Social Widget - 60+ Social Buttons"
+msgstr ""
+
+#: theme-setup/theme-options.php:865
+msgid ""
+"News Ticker (Recent/Categories/Tags/PostIDs based) - It can display posts "
+"according to Likes/Views/Comments/Dates/... and there are many options."
+msgstr ""
+
+#: theme-setup/theme-options.php:866
+msgid "Settings Panel to Control Options in Each Post"
+msgstr ""
+
+#: theme-setup/theme-options.php:867
+msgid "Settings Panel to Control Options in Each Page"
+msgstr ""
+
+#: theme-setup/theme-options.php:868
+msgid "Built-in Posts Views Counter"
+msgstr ""
+
+#: theme-setup/theme-options.php:869
+msgid "Built-in Posts Likes System"
+msgstr ""
+
+#: theme-setup/theme-options.php:870
+msgid "Built-in Infinite Scroll and Load More Button"
+msgstr ""
+
+#: theme-setup/theme-options.php:871
+msgid ""
+"Post Share Buttons Styles with Options - 25+ Social Networks are Supported"
+msgstr ""
+
+#: theme-setup/theme-options.php:872
+msgid ""
+"Related Posts (Categories/Tags/Author/PostIDs based) with Many Options - For "
+"both single posts and post summaries"
+msgstr ""
+
+#: theme-setup/theme-options.php:873
+msgid "Sticky Menu/Sticky Sidebars with enable/disable capability"
+msgstr ""
+
+#: theme-setup/theme-options.php:874
+msgid "Author Bio Box with Social Buttons - 60+ Social Buttons"
+msgstr ""
+
+#: theme-setup/theme-options.php:875
+msgid ""
+"Ability to Enable/Disable Mobile View from Primary, Secondary and Header "
+"Menus"
+msgstr ""
+
+#: theme-setup/theme-options.php:876
+msgid "Post Navigation with Thumbnails"
+msgstr ""
+
+#: theme-setup/theme-options.php:877
+msgid "Ability to add Ads under Post Title and under Post Content"
+msgstr ""
+
+#: theme-setup/theme-options.php:878
+msgid "Ability to Disable Google Fonts - for faster loading"
+msgstr ""
+
+#: theme-setup/theme-options.php:879
+msgid "More Widget Areas"
+msgstr ""
+
+#: theme-setup/theme-options.php:880
+msgid "Built-in Contact Form"
+msgstr ""
+
+#: theme-setup/theme-options.php:881
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: theme-setup/theme-options.php:882
+msgid "Yoast SEO Breadcrumbs Support"
+msgstr ""
+
+#: theme-setup/theme-options.php:883
+msgid "Full RTL Language Support"
+msgstr ""
+
+#: theme-setup/theme-options.php:884
+msgid "Search Engine Optimized"
+msgstr ""
+
+#: theme-setup/theme-options.php:885
+msgid "Random Posts Button in Header"
+msgstr ""
+
+#: theme-setup/theme-options.php:886
+msgid "Many Useful Customizer Theme options"
+msgstr ""
+
+#: theme-setup/theme-options.php:887
+msgid "More Features..."
+msgstr ""
+
+#: theme-setup/theme-options.php:889
+msgid "Upgrade To GridShow PRO"
+msgstr ""
+
+#: theme-setup/theme-options.php:997
+msgid "Theme Options"
+msgstr ""
+
+#: theme-setup/theme-options.php:1013
+msgid ""
+"To change Background Color, need to remove background image first:- go to "
+"Appearance : Customize : Theme Options : Background Image"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "GridShow"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themesdna.com/gridshow-wordpress-theme/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemesDNA"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themesdna.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width, no sidebar"
+msgstr ""
